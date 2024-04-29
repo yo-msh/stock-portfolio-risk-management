@@ -2,6 +2,8 @@
 # Stock Portfolio Risk Management
 
 In this project we were give a pdf, which contains a list of stock with their respective 'Reco Date', 'Reco Price' and 'Exit Date', 'Exit Price'.
+![Screenshot 2024-04-29 215504](https://github.com/yo-msh/stock-portfolio-risk-management/assets/119718165/194cec9b-6f96-47cf-a638-a4490e2b21c8)
+
 
 Now the given task at hand was to compute the minimum amount to investement we need to give from our pocket to maximize the profit/returns.
 
@@ -16,6 +18,10 @@ We were also give a constrains/conditions that we are allowed to invest one hund
 - As the given condition stats that we will only invest one hundred thousand (or 1 lakh) for each stock, now this fund can either come from our pocket or from the surplus reture of some other stock.
 
 - We will convert the given pdf into a EXCEL Sheet for better workability (we used a website to convert [pdf to excel](https://www.ilovepdf.com/pdf_to_excel))
+
+- ![image](https://github.com/yo-msh/stock-portfolio-risk-management/assets/119718165/ecee08f5-b4e9-4b89-b1c7-d85bdaeae757)
+
+
 
 - We also convert all the Date in the EXCEL into the format of **YYYYMMDD**, for example : from *Apr 15, 2024* to *20240425*
 
@@ -43,4 +49,9 @@ We were also give a constrains/conditions that we are allowed to invest one hund
     - If true that money invested won't be returned, so we will add it into another variable called ***corpusAmount***
 
 - We will repeat the above step till the end of the list
+
+## Result
+- So after computing for the given file we got the following results:
+- ![image](https://github.com/yo-msh/stock-portfolio-risk-management/assets/119718165/336c1ba2-6832-4cc3-af0f-f04d80403f4f)
+
 
