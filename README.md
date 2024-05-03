@@ -2,7 +2,6 @@
 # Stock Portfolio Risk Management
 
 In this project we were give a pdf, which contains a list of stock with their respective 'Reco Date', 'Reco Price' and 'Exit Date', 'Exit Price'.
-![Screenshot 2024-04-29 215504](https://github.com/yo-msh/stock-portfolio-risk-management/assets/119718165/194cec9b-6f96-47cf-a638-a4490e2b21c8)
 
 
 Now the given task at hand was to compute the minimum amount to investement we need to give from our pocket to maximize the profit/returns.
@@ -19,7 +18,6 @@ We were also give a constrains/conditions that we are allowed to invest one hund
 
 - We will convert the given pdf into a EXCEL Sheet for better workability (we used a website to convert [pdf to excel](https://www.ilovepdf.com/pdf_to_excel))
 
-- ![image](https://github.com/yo-msh/stock-portfolio-risk-management/assets/119718165/ecee08f5-b4e9-4b89-b1c7-d85bdaeae757)
 
 
 
